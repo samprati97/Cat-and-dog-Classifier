@@ -1,2 +1,2 @@
-# Cat-and-dog-Classifier
+# Cat-and-dog-Classifier-CNN
 Cat and Dog classifier using CNN.
